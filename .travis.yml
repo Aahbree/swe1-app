@@ -1,3 +1,5 @@
 language: python
 rvm:
-script: manage.py
+python:
+-3.7
+script: pytest
