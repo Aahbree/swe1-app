@@ -1,4 +1,4 @@
-Polls Application
+Polls Application for SE Assignment
 
 Travis: [![Build Status](https://app.travis-ci.com/Aahbree/swe1-app.svg?branch=master)](https://app.travis-ci.com/Aahbree/swe1-app)
 
